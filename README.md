@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Michael! ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
-<img src="https://user-images.githubusercontent.com/your-image.png" width="250" align="right" alt="My Avatar" />
+<img src="images/myAvitar.png" width="250" align="right" alt="My Avatar" />
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Python**
