@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Python**
 - 🔭 I’m working on **Webcrawler and Slack apps**
 - 💬 Ask me about **my recent Slack Apps Ive been working on**
-- 📫 How to reach me: archan6le@gmail.com(mailto:archan6le@gmail.com)
+- 📫 How to reach me: archan6le@gmail.com (mailto:archan6le@gmail.com)
 - ⚡ Fun fact: I have the cutest bulldog (Sammy) who codes with me.
 ---
 
