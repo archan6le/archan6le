@@ -42,7 +42,7 @@
 
 ---
 
-![Snake animation](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJtd3Y3aDNzZW5sb2QzNDBldHpnMHppbW9qZnJ3dWxwYm15aHhoMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9BfRlp95KYFeYNNpDz/giphy.gif" height="90" alt="Pudgy Penguin"/>
 
 <!--
 **your-github-username/your-github-username** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
