@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Michael! ![Profile Views](https://komarev.com/ghpvc/?username=archan6le&style=flat-square)
+# 👋 Hi there, I'm Michael!
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Python**
@@ -16,15 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="30" alt="Windows" />
   <!-- Add more icons as needed -->
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=archan6le&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archan6le&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
