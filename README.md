@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Michael! ![Profile Views](https://komarev.com/ghpvc/?username=archan6le&style=flat-square)
 
-<img src="images/myAvitar.png" width="250" align="right" alt="My Avatar" />
+<img src="images/myAvitar.png" width="150" align="right" alt="My Avatar" />
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Python**
@@ -36,7 +36,6 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-pfeiffer-64a30914/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://mp5.name)
 <!-- Add more social icons as needed -->
 
