@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Michael! ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+# 👋 Hi there, I'm Michael! ![Profile Views](https://komarev.com/ghpvc/?username=archan6le&style=flat-square)
 
 <img src="images/myAvitar.png" width="250" align="right" alt="My Avatar" />
 
