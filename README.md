@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Michael! ![Profile Views](https://komarev.com/ghpvc/?username=archan6le&style=flat-square)
 
-<img src="images/myAvitar.png" width="150" align="right" alt="My Avatar" />
+<img src="images/myAvitar.png" width="250" align="right" alt="My Avatar" />
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Python**
