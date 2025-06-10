@@ -5,10 +5,9 @@
 ## 🚀 About Me
 - 🌱 I’m currently learning **Python**
 - 🔭 I’m working on **Webcrawler and Slack apps**
-- 💬 Ask me about ****
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- ⚡ Fun fact: [A fun fact about you!]
-
+- 💬 Ask me about **my recent Slack Apps Ive been working on**
+- 📫 How to reach me: archan6le@gmail.com](mailto:archan6le@gmail.com)
+- ⚡ Fun fact: I have the cutest bulldog (Sammy) who codes with me.
 ---
 
 ## 🛠️ Languages and Tools
@@ -16,10 +15,10 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="30" alt="Apple" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="30" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="30" alt="Windows" />
   <!-- Add more icons as needed -->
 </p>
 
@@ -28,8 +27,8 @@
 ## 📈 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=archan6le&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archan6le&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
